@@ -26,5 +26,3 @@ This repository contains my solution to the "Recipes" project from The Odin Proj
 - How can I improve the code or design?
 - What am I proud of in this project?
 - What are my next steps for learning?
-
----
