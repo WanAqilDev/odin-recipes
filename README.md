@@ -28,5 +28,3 @@ This repository contains my solution to the "Recipes" project from The Odin Proj
 - What are my next steps for learning?
 
 ---
-
-Feel free to use the sections above to jot down your thoughts, lessons learned, and ideas for improvement as you complete the project.
